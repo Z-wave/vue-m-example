@@ -28,6 +28,8 @@
     │
     ├─views            # 视图
     │
+    ├─vuex             # 组件状态仓库
+    │
     ├─routers          # 路由
     │
     ├─directives       # 自定义指令
